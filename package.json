@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "openbadges-bakery": "^1.0.5",
+    "png-itxt": "^2.0.0"
+  }
+}

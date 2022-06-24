@@ -6,6 +6,8 @@
 
 `output.png` is the png image with the metadata baked into it
 
+The "baking" takes place in the `png-baking.js` file
+
 You can verify that the baked image contains metadata which can be use to verify a badge by uploading it to one of these OpenBadge Validator services
 - [Badgr Validator](https://badgecheck.io)
 - [IMS Validator](https://openbadgesvalidator.imsglobal.org)
